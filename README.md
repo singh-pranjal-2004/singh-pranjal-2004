@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome aboard! This is Pranjal's GitHub hub. 🚀<br> 
+<h1 align="center">👋 Hey Guyz! Welcome to Pranjal's GitHub hub. 🚀<br> 
 
 🪲 Perpetual Learner 🪲</h1>
 
