@@ -56,8 +56,9 @@
 
 <div align="center"> 
   <h2>⚡ Stats ⚡</h2>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-pranjal-2004&show_icons=true&theme=radical&layout=compact" alt="singh-pranjal-2004" />
   
-  ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-pranjal-2004&show_icons=true&theme=radical)
+  ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-pranjal-2004&show_icons=true&theme=radical&layout=compact)
 </div>
 
 <div align="center">
