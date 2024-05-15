@@ -2,18 +2,20 @@
 
 🪲 Perpetual Learner 🪲</h1>
 
-<div align="center">
+<div>
+  <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwZWdmMWJ5NHA5eWYyemNra3JpeG01dTR1cTkwdTg1Z3k2ZzZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</div>
+
+👨‍🏭 I’m currently pursuing **B.Tech CSE From Lovely Professional University**
 
 🌱 I’m currently learning **DSA & Web Development**
 
-👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranjal04/](https://www.linkedin.com/in/pranjal04/)
+🙌 I’m looking to collaborate on **Web Projects**
 
-📫 How to reach me **pranjalsingh.ak@gmail.com**
+📫 How to reach me? **pranjalsingh.ak@gmail.com**
 
-⚡ Fun fact **Introvert trying to be Extrovert**
-</div>
-
-<br>
+⚡ Fun fact about me: **Introvert trying to be an Extrovert**
+<br><br>
 
 <div align="center"> 
   <a href="https://linkedin.com/in/pranjal04" target="_blank">
